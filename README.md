@@ -1,2 +1,2 @@
 # EPN
-repositurio auxiliar para proyectos
+repositorio auxiliar para proyectos
